@@ -9,14 +9,21 @@ F22:: MButton
 F24:: #Up
 
 ;<<<Keyboard>>>
-Appskey:: Send {Shift Down}{End}{Shift Up}
-RAlt:: Send {Shift Down}{Home}{Shift Up}
+;RAlt and Appskey are home and end keys
 
++Appskey:: Send {Shift Down}{End}{Shift Up}
++RAlt:: Send {Shift Down}{Home}{Shift Up}
+Appskey:: Send {End}
+RAlt:: Send {Home}
+
+;Media keys are Arrow + Win = LAlt
 #!SPACE:: Send {Media_Play_Pause}
 #!Left:: Send {Media_Prev}
 #!Right:: Send {Media_Next}
 #!Down:: Send {Volume_Down}
 #!Up:: Send {Volume_Up}
+
+
 
 ;<<<MS Sculpt Comfort Mouse>>>
 ;WheelRight::
@@ -25,22 +32,18 @@ RAlt:: Send {Shift Down}{Home}{Shift Up}
 ;	Sleep, 300
 ;}
 ;return
-
 ;WheelLeft:: 
 ;{
 ;	Send {Ctrl Down}{Shift Down}{Tab}{Ctrl Up}{Shift Up}
 ;	Sleep, 300
 ;}
 ;return
-
 ;XButton1:: 
 ;{
 ;	Send {LWin down}{Left}{LWin up}		;Swipe Down
 ;	Sleep, 300
 ;}
 ;return
-
-
 ;XButton2::	;Swipe Up
 ;{
 ;	Send {LWin down}{Right}{LWin up}	;Swipe Down
