@@ -17,19 +17,19 @@ Appskey:: Send {End}
 RAlt:: Send {Home}
 
 ;Swap F7 - F12 Keys with its Fn equivalents
-F7:: Send {PrintScreen}
-F8:: Send {Home}
-F9:: Send {End}
-F10:: Send {PgUp}
-F11:: Send {PgDn}
-F12:: Send {Insert}
+$F7:: Send {PrintScreen}
+$F8:: Send {Home}
+$F9:: Send {End}
+$F10:: Send {PgUp}
+$F11:: Send {PgDn}
+$F12:: Send {Insert}
 
-PrintScreen:: Send {F7}
-Home:: Send {F8}
-End:: Send {F9}
-PgUp:: Send {F10}
-PgDn:: Send {F11}
-Insert:: Send {F12}
+$PrintScreen:: Send {F7}
+$Home:: Send {F8}
+$End:: Send {F9}
+$PgUp:: Send {F10}
+$PgDn:: Send {F11}
+$Insert:: Send {F12}
 
 
 ;Media Keys
