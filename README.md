@@ -11,6 +11,7 @@ An Auto-hotkey script to make the Surface Book more developer / user friendly. M
 * Win + LAlt + SPACE = Play/ Pause  
 * Win + LAlt + UP = Volume Up  
 * Win + LAlt + DOWN = Volume Down  
+* Win + LAlt + m = Mute Volume  
 * Win + LAlt + LEFT = Previous Media  
 * Win + LAlt + Right = Next Media  
   
@@ -30,5 +31,4 @@ An Auto-hotkey script to make the Surface Book more developer / user friendly. M
 * Four Finger Left Swipe = Snap active window to the left.  
 * Four Finger Right Swipe = Snap active window to the right.  
 * Different mouse setting profile for touchpad and mouse.  
-* Custom keyboard backlight timer.  
  
