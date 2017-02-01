@@ -38,6 +38,7 @@ $Insert:: Send {F12}
 #!Right:: Send {Media_Next}
 #!Down:: Send {Volume_Down}
 #!Up:: Send {Volume_Up}
+#!m:: Send {Volume_Mute}
 
 
 
