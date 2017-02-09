@@ -30,6 +30,4 @@ An Auto-hotkey script to make the Surface Book more developer / user friendly. M
 ##Future Updates  
 * Four Finger Tap = Max and Min active window depending on its state.  
 * Four Finger Left Swipe = Snap active window to the left.  
-* Four Finger Right Swipe = Snap active window to the right.  
-* Different mouse setting profile for touchpad and mouse.  
- 
+* Four Finger Right Swipe = Snap active window to the right. 
