@@ -24,12 +24,12 @@ $F10:: Send {PgUp}
 $F11:: Send {PgDn}
 $F12:: Send {Insert}
 
-$PrintScreen:: Send {F7}
-$Home:: Send {F8}
-$End:: Send {F9}
-$PgUp:: Send {F10}
-$PgDn:: Send {F11}
-$Insert:: Send {F12}
+;$PrintScreen:: Send {F7}
+;$Home:: Send {F8}
+;$End:: Send {F9}
+;$PgUp:: Send {F10}
+;$PgDn:: Send {F11}
+;$Insert:: Send {F12}
 
 
 ;Media Keys
@@ -39,31 +39,3 @@ $Insert:: Send {F12}
 #!Down:: Send {Volume_Down}
 #!Up:: Send {Volume_Up}
 #!m:: Send {Volume_Mute}
-
-
-
-;<<<MS Sculpt Comfort Mouse>>>
-;WheelRight::
-;{
-;	Send, {Ctrl Down}{Tab}{Ctrl Up}
-;	Sleep, 300
-;}
-;return
-;WheelLeft:: 
-;{
-;	Send {Ctrl Down}{Shift Down}{Tab}{Ctrl Up}{Shift Up}
-;	Sleep, 300
-;}
-;return
-;XButton1:: 
-;{
-;	Send {LWin down}{Left}{LWin up}		;Swipe Down
-;	Sleep, 300
-;}
-;return
-;XButton2::	;Swipe Up
-;{
-;	Send {LWin down}{Right}{LWin up}	;Swipe Down
-;	Sleep, 300
-;}
-;return
