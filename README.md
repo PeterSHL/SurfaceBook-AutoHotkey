@@ -20,6 +20,7 @@ An Auto-hotkey script to make the Surface Book more developer / user friendly. M
 * Appskey = END 
  * _They play nice with shift keys now_
 * Swaps F7 - F12 to its Fn equivalents, Vice versa. 
+ * _remove ";" in line 27 - 32 to use this feature_
   
 **Notes**  
 * Fn + Del / Backspace is screen brightness by default so I didn’t bother adding that.  
