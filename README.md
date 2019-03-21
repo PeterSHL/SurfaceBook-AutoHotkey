@@ -1,6 +1,5 @@
 # Surfacebook-AutoHotkey
-An Auto-hotkey script to make the Surface Book more developer / user friendly. More changes will follow soon ;p  
-
+An Auto-hotkey script to make the Surface Book more developer / user friendly.
 ## Bindings  
 
 **Touchpad**  
@@ -25,9 +24,3 @@ An Auto-hotkey script to make the Surface Book more developer / user friendly. M
 **Notes**  
 * Fn + Del / Backspace is screen brightness by default so I didn’t bother adding that.  
 * You might want to disable default three finger and four finger taps in touchpad settings so it doesn’t turn on Cortana.  
-* Suggestions are welcome :D Have a good day!  
-  
-##Future Updates  
-* Four Finger Tap = Max and Min active window depending on its state.  
-* Four Finger Left Swipe = Snap active window to the left.  
-* Four Finger Right Swipe = Snap active window to the right. 
